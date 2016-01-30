@@ -45,7 +45,7 @@ int main()
 	cout << "onVerAway: " << endl << ver.distance(onVerAway) << endl << endl;
 	cout << "onSlope : " << endl << slope.distance(onSlope) << endl << endl;
 	cout << "onSlopeAway : " << endl << slope.distance(onSlopeAway) << endl << endl;
-	cout << "onSlopeBelow : " << endl << slope.distance(onSlopeBelow) << endl << endl;
+	
 
 	system("pause");
 	return 0;
